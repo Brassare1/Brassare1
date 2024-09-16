@@ -9,3 +9,6 @@
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/intl-pt/track/4J8JsvGToawvjyVL482UqH?si=a62b05e34ee64d26)
 </div>
+
+
+![Snake animation](https://github.com/Brassare1/Brassare1/blob/output/github-contribution-grid-snake.svg)
